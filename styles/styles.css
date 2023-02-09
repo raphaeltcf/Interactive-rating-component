@@ -1,0 +1,26 @@
+.image {
+    width: 140px;
+    display: block;
+    margin: 10px auto;
+}
+
+.score {
+    background-color: hsl(216, 13%, 23%);
+    border-radius: 50px; 
+    margin: 30px auto;
+    width: 160px;
+    text-align: center;
+    padding: 6px;
+    color: hsl(25, 97%, 53%);
+}
+
+.title {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    line-height: 20px;
+    font-size: 13.7px;
+    margin-bottom: 10px;
+}
